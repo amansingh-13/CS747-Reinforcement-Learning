@@ -1,0 +1,25 @@
+- To run the part 1:
+
+   Execute 
+   ``` python3 mountain_car.py --task T1 --train 1 ```
+
+   This will generate the plot T1.jpg and the weights will be
+   stored into T1.npy. Another thing to note is that the 
+   training takes "3 min 50 s" to run on an Intel i5 processor.
+   
+   To test the submission just exectute :
+   ``` python3 mountain_car.py --task T1 --train 0 ```
+
+- To run the part 2:
+
+   Execute 
+   ``` python3 mountain_car.py --task T2 --train 1 ```
+
+   This will generate the plot T2.jpg and the weights will be
+   stored into T2.npy. Another thing to note is that the 
+   training takes "4 min 20 s" to run on an Intel i5 processor.
+   
+   To test the submission just exectute :
+   ``` python3 mountain_car.py --task T2 --train 0 ```
+
+All commands should be executed in submission folder.
